@@ -46,3 +46,5 @@ We really want to finish this project, but Undercity does *not* have enough reso
 | 9V Battery Connectors | 2                                                                                                    | $1.28         |
 | Total                   |                                                                                                 | $43.77        |
 | Link to sheet:        | https://docs.google.com/spreadsheets/d/1Dp7_RmUuRrrxWQPENCQc-xJWJVTFrkpJmQTc10l2BLo/edit?usp=sharing |            |
+
+YT Link: https://www.youtube.com/watch?v=Kdq-j7kX-nM
